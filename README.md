@@ -1,5 +1,6 @@
 # Ubuntu-Virtual-Box-Install
 Installing and running Ubuntu 16.04.2 in Virtual Box 5.1.22
+*Please see the note at the end of the Readme. Running a Virtual Machine may require an extra step.
 
 ## Installing Virtual Box
 
@@ -40,5 +41,5 @@ Installing and running Ubuntu 16.04.2 in Virtual Box 5.1.22
 13. After clicking, a dialogue box should appear. This is when you'll select your downloaded .iso for Ubuntu.
 
 **Note**
-
+Depending on your current BIOS configuration, you may have to enable virtualization. This process will likely be different between machines, but the general idea is to boot into BIOS, find an option that allows for vitrualization or a similarly worded phrase
 
